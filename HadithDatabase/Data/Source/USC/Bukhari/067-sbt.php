@@ -1,0 +1,1164 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<title>Center for Muslim-Jewish Engagement</title>
+
+
+<link href="../../../stylesheets/styles.css" rel="stylesheet" type="text/css">
+
+<script src="../../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+<link href="../../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+
+
+<!--  Spry-UI-1.7 scripts  -->
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryDOMUtils.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryDOMEffects.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryWidget.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryPanelSelector.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryPanelSet.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryFadingPanels.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SprySliderPanels.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryFilmStrip.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryImageLoader.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryImageSlideShow.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/plugins/ImageSlideShow/SpryThumbnailFilmStripPlugin.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/plugins/ImageSlideShow/SpryTitleSliderPlugin.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/plugins/ImageSlideShow/SpryPanAndZoomPlugin.js'></script>
+
+
+
+<link type='text/css' href='../../../Spry-UI-1.7/css/ImageSlideShow/basicFS/basic_fs.css' rel='stylesheet'>
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16659537-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<style>
+
+<!--
+
+body {
+	background: url('../../../images/bg-holder-v2.jpg') no-repeat center top fixed;
+	background-color: #D7CCB4;
+	margin-top: 12px;
+}
+
+-->
+	
+</style>
+
+
+<!--[if gte IE 5]>
+
+<link rel="stylesheet" type="text/css" href="../../../stylesheets/ie-specific.css" />
+
+<![endif]-->
+</head>
+
+<body>
+
+<table class="main" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr>
+  	<td width="100%" height="150" colspan="2" background="../../../images/header/header.jpg">
+    	<header><span class="header-ie">
+            <h2>Center for Muslim-Jewish Engagement</h2>
+       	  <h4>A Partnership between the Hebrew Union College-Jewish Institute of Religion, <br>
+       	    Omar Ibn Al Khattab Foundation, & USC Center for Religion and Civic Culture</h4>
+		</span>
+		</header>
+    </td>
+  </tr>
+  
+  <tr>
+    	
+    <td width="100%" colspan="2">
+        <nav>        
+        
+    	<ul id="MenuBar1" class="MenuBarHorizontal"><li class="home"><a href="../../../" alt="Center for Muslim Jewish Engagement" title="Center for Muslim Jewish 
+
+Engagement">Home</a></li>
+
+          
+
+          <li class="about"><a class="MenuBarItemSubmenu" href="../../../about/mission/" alt="about" title="about">About</a>
+
+            <ul>
+
+              
+
+              <li class="about"><a href="../../../about/history/" class="sub" alt="history" title="history">History</a>
+
+</li>
+
+<li class="about"><a href="../../../about/mission/" class="sub" alt="mission" title="mission">Mission</a>
+
+</li>
+
+              <li class="about"><a href="../../../about/members/" class="sub" alt="executive members" title="executive 
+
+members">Executive Members / Staff</a></li>
+
+              <li class="about"><a href="../../../about/partners/" class="sub" alt="partners" title="partners">Partners</a></li>
+
+              <li class="about"><a href="../../../about/contact/" class="sub" alt="contact" title="contact">Contact</a>
+
+</li>
+
+              <li class="about"><a href="../../../about/calendar/" class="sub" alt="calendar" title="calendar">Calendar</a></li>
+
+            </ul>
+
+          </li>
+
+        
+
+          <li class="texts"><a href="../../home/" class="MenuBarItemSubmenu" alt="religious texts" title="religious texts">Religious Texts</a>
+
+            <ul>
+
+              <li class="texts"><a href="../../quran/" class="sub" alt="quran" title="quran">Quran</a></li>
+
+              <li class="texts"><a href="../" class="sub" alt="hadith" title="hadith">Hadith</a></li>
+
+              <li class="texts"><a href="../../home/jewish-text.php" class="sub" alt="jewish text" title="jewish text">Jewish Text</a></li>
+
+            </ul>
+
+          </li>
+
+          
+
+          <li class="scholars"><a class="MenuBarItemSubmenu" alt="scholars" title="scholars">Scholars</a>
+
+            <ul>
+
+              <li class="scholars"><a href="../../../scholars/scholars/fathi-osman.php" class="sub" alt="dr fathi osman" title="dr fathi osman">Dr. Fathi Osman</a></li>
+
+              <li class="scholars"><a href="../../../scholars/scholars/reuven-firestone.php" class="sub" alt="dr reuven 
+
+firestone" title="dr reuven firestone">Dr. Reuven Firestone</a></li>
+
+              <li class="scholars"><a href="../../../scholars/ask-a-scholar/" class="sub" alt="ask scholar" title="ask 
+
+scholar">Ask a Scholar</a></li>
+
+            </ul>
+
+          </li>
+
+        
+
+          <li class="articles"><a class="MenuBarItemSubmenu" href="../../../articles/" alt="articles" title="articles">Articles</a></li>
+
+        
+
+        <li class="resources"><a class="MenuBarItemSubmenu" alt="resources" title="resources">Resources</a>
+
+          <ul>
+
+            <li class="resources"><a href="../../../resources/reading/" class="sub" alt="publications and reading" title="publications and reading">Publications / Suggested Reading</a></li>
+
+            <li class="resources"><a href="../../../resources/news/" class="sub" alt="news" title="news">In the 
+
+News</a></li>
+
+            <li class="resources"><a href="../../../resources/projects/" class="sub" alt="programs and projects" title="programs and projects">Programs / Projects</a></li>
+
+            <li class="resources"><a href="../../../resources/heritage/" class="sub" alt="heritage and traditions" title="heritage and traditions">Heritage / Traditions</a></li>
+
+            <li class="resources"><a href="../../../resources/photos/cmje.php" class="sub" alt="photo gallery" title="photo gallery">CMJE Photo Gallery</a></li>
+
+          </ul>
+
+        </li>    
+       </ul> 
+        
+        <script type="text/javascript"> 
+        var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+        </script> 
+        
+       </nav>
+        
+        
+  	</td>
+    
+  </tr>
+
+  
+  
+  <tr>
+  
+    <td width="667" valign="top">
+    
+      <div class="content">
+      
+      <br>
+      <em> <a href="sbtintro.php"> Translation of Sahih Bukhari, Book 67: </a> </em>
+      <h1> <em> Hunting, Slaughtering </em> </h1>
+      <hr>
+      <p> <em> <a name="007.067.384"> Volume 7, Book 67, Number 384: </a> </em>
+      <blockquote>
+        <p> Narrated Adi bin Hatim:
+        <p> I asked the Prophet about the game killed by a Mi'rad (i.e. a 
+          sharp-edged piece of wood or a piece of wood provided with a sharp 
+          piece of iron used for hunting). He said, "If the game is killed with 
+          its sharp edge, eat of it, but if it is killed with its shaft, with a 
+          hit by its broad side then the game is (unlawful to eat) for it has 
+          been beaten to death." I asked him about the game killed by a trained 
+          hound. He said, "If the hound catches the game for you, eat of it, for
+          killing the game by the hound, is like its slaughtering. But if you 
+          see with your hound or hounds another dog, and you are afraid that it 
+          might have shared in hunting the game with your hound and killed it, 
+          then you should not eat of it, because you have mentioned Allah's name
+          on (sending) your hound only, but you have not mentioned it on some 
+          other hound
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.385"> Volume 7, Book 67, Number 385: </a> </em>
+      <blockquote>
+        <p> Narrated 'Adi bin Hatim:
+        <p> I asked Allah's Apostle about the Mi'rad. He said, "If you hit the 
+          game with its sharp edge, eat it, but if the Mi'rad hits the game with
+          its shaft with a hit by its broad side do not eat it, for it has been 
+          beaten to death with a piece of wood. (i.e. unlawful)." I asked, "If I
+          let loose my trained hound after a game?" He said, "If you let loose 
+          your trained hound after game, and mention the name of Allah, then you
+          can eat." I said, "If the hound eats of the game?" He said "Then you 
+          should not eat of it, for the hound has hunted the game for itself and
+          not for you." I said, "Some times I send my hound and then I find some
+          other hound with it?" He said "Don't eat the game, as you have 
+          mentioned the Name of Allah on your dog only and not on the other."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.386"> Volume 7, Book 67, Number 386: </a> </em>
+      <blockquote>
+        <p> Narrated Adi bin Hatim:
+        <p> I said, "O Allah's Apostle! We let loose our trained hounds after a 
+          game?" He said, "Eat what they hunt for you." I said, "Even if they 
+          killed (the game)?" He replied, 'Even if they killed (the game)." I 
+          said, 'We also hit (the game) with the Mi'rad?" He said, "Eat of the 
+          animal which the Mi'rad kills by piercing its body, but do not eat of 
+          the animal which is killed by the broad side of the Mi'rad.''
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.387"> Volume 7, Book 67, Number 387: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Tha'laba Al-Khushani:
+        <p> I said, "O Allah's Prophet! We are living in a land ruled by the 
+          people of the Scripture; Can we take our meals in their utensils? In 
+          that land there is plenty of game and I hunt the game with my bow and 
+          with my hound that is not trained and with my trained hound. Then what
+          is lawful for me to eat?" He said, "As for what you have mentioned 
+          about the people of the Scripture, if you can get utensils other than 
+          theirs, do not eat out of theirs, but if you cannot get other than 
+          theirs, wash their utensils and eat out of it. If you hunt an animal 
+          with your bow after mentioning Allah's Name, eat of it. and if you 
+          hunt something with your trained hound after mentioning Allah's Name, 
+          eat of it, and if you hunt something with your untrained hound (and 
+          get it before it dies) and slaughter it, eat of it."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.388"> Volume 7, Book 67, Number 388: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah bin Maghaffal:
+        <p> that he saw a man throwing stones with two fingers (at something) and 
+          said to him, "Do not throw stones, for Allah's Apostle has forbidden 
+          throwing stones, or e used to dislike it." 'Abdullah added: Throwing 
+          stones will neither hunt the game, nor kill (or hurt) an enemy, but it
+          may break a tooth or gouge out an eye." Afterwards 'Abdullah once 
+          again saw the man throwing stones. He said to him, "I tell you that 
+          Allah's Apostle has forbidden or disliked the throwing the stones (in 
+          such a way), yet you are throwing stones! I shall not talk to you for 
+          such-and-such a period."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.389"> Volume 7, Book 67, Number 389: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Umar:
+        <p> The Prophet said, "Whoever keeps a (pet) dog which is neither a watch 
+          dog nor a hunting dog, will get a daily deduction of two Qirat from 
+          his good deeds."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.390"> Volume 7, Book 67, Number 390: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah bin Umar:
+        <p> I heard the Prophet saying, "If someone keeps a dog neither for 
+          hunting, nor for guarding livestock, the reward (for his good deeds) 
+          will be reduced by two Qirats per day."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.391"> Volume 7, Book 67, Number 391: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah bin 'Umar:
+        <p> Allah's Apostle said, "If someone keeps a dog neither for guarding 
+          livestock, nor for hunting, his good deeds will decrease (in reward) 
+          by two Qirats a day.'
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.392"> Volume 7, Book 67, Number 392: </a> </em>
+      <blockquote>
+        <p> Narrated Adi bin Hatim:
+        <p> I asked Allah's Apostle. "We hunt with the help of these hounds." He 
+          said, "If you let loose your trained hounds after a game, and mention 
+          the name of Allah, then you can eat what the hounds catch for you, 
+          even if they killed the game. But you should not eat of it if the 
+          hound has eaten of it, for then it is likely that the hound has caught
+          the game for itself. And if other hounds join your hound in hunting 
+          the game, then do not eat of it."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.393"> Volume 7, Book 67, Number 393: </a> </em>
+      <blockquote>
+        <p> Narrated Adi bin Hatim:
+        <p> The Prophet said, "If you let loose your hound after a game and 
+          mention Allah's Name on sending it, and the hound catches the game and
+          kills it, then you can eat of it. But if the hound eats of it, then 
+          you should not eat thereof, for the hound has caught it for itself. 
+          And if along with your hound, join other hounds, and Allah's Name was 
+          not mentioned at the time of their sending, and they catch an animal 
+          and kill it, you should not ea: of it, for you will not know which of 
+          them has killed it. And if you have thrown an arrow at the game and 
+          then find it (dead) two or three days later and, it bears no mark 
+          other than the wound inflicted by your arrow, then you can eat of it. 
+          But if the game is found (dead) in water, then do not eat of it." And 
+          it has also been narrated by 'Adi bin Hatim that he asked the Prophet 
+          "If a hunter throws an arrow at the game and after tracing it for two 
+          or three days he finds it dead but still bearing his arrow, (can he 
+          eat of it)?" The Prophet replied, "He can eat if he wishes."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.394"> Volume 7, Book 67, Number 394: </a> </em>
+      <blockquote>
+        <p> Narrated 'Adi bin Hatim:
+        <p> I said, "O Allah's Apostle! I let loose my hound after a game and 
+          mention Allah's Name on sending it." The Prophet said, "If you let 
+          loose your hound after a game and you mention Allah's Name on sending 
+          it and the hound catches and kills the game and eats of it, then you 
+          should not eat of it, for it has killed it for itself." I said, 
+          "Sometimes when I send my hound after a game, I find another hound 
+          along with it and I do not know which of them has caught the game." He
+          said, "You must not eat of it because you have not mentioned, the Name
+          of Allah except on sending your own hound, and you did not mention it 
+          on the other hound." Then I asked him about the game hunted with a 
+          Mi'rad (i.e. a sharp edged piece of wood or a piece of wood provided 
+          with a sharp piece of iron used for hunting). He said, "If the game is
+          killed with its sharp edge, you can eat of it, but if it is killed by 
+          its broad side (shaft), you cannot eat of it, for then it is like an 
+          animal beaten to death with a pie
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.395"> Volume 7, Book 67, Number 395: </a> </em>
+      <blockquote>
+        <p> Narrated Adi Bin Hatim:
+        <p> I asked Allah's Apostle, "We hunt with these hounds." He said, "If you
+          send your trained hounds after a game and mention Allah's Name on 
+          sending, you can eat of what they catch for you. But if the hound eats
+          of the game, then you must not eat of it, for I am afraid that the 
+          hound caught it for itself, and if another hound joins your hounds 
+          (during the hunt), you should not eat of the game."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.396"> Volume 7, Book 67, Number 396: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Tha'laba Al-Khushani:
+        <p> I came to Allah's Apostle and said, "O Allah's Apostle! We are living 
+          in the land of the people of the Scripture and we take our meals in 
+          their utensils, and in the land there is game and I hunt with my bow 
+          and trained or untrained hounds; please tell me what is lawful for us 
+          of that." He said, "As for your saying that you are living in the land
+          of the people of the Scripture and that you eat in their utensils, if 
+          you can get utensils other than theirs, do not eat in their utensils, 
+          but if you do not find (other than theirs), then wash their utensils 
+          and eat in them. As for your saying that you are in the land of game, 
+          if you hung something with your bow, and have mentioned Allah's Name 
+          while hunting, then you can eat (the game). And if you hunt something 
+          with your trained hound, and have mentioned Allah's Name on sending it
+          for hunting then you can eat (the game). But if you hunt something 
+          with your untrained hound and you were able to slaughter it before its
+          death, you can eat of it."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.397"> Volume 7, Book 67, Number 397: </a> </em>
+      <blockquote>
+        <p> Narrated Anas bin Malik:
+        <p> We provoked a rabbit at Marr Az-Zahran till it started jumping. My 
+          companions chased it till they got tired. But I alone ran after it and
+          caught it and brought it to Abu Talha. He sent both its legs to the 
+          Prophet who accepted them.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.398"> Volume 7, Book 67, Number 398: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Qatada:
+        <p> that once he was with Allah's Apostle (on the way to Mecca). When he 
+          had covered some of the way to Mecca, he and some companions of his, 
+          who were in the state of lhram. remained behind the Prophet while Abu 
+          Qatada himself was not in the state of Ihram. Abu Qatada, seeing an 
+          onager rode his horse and asked his companions to hand him a whip, but
+          they refused. He then asked them to hand him his spear, but they 
+          refused. Then he took it himself and attacked the onager and killed 
+          it. Some of the Companions of Allah's Apostle ate of it, but some 
+          others refused to eat. When they met Allah's Apostle they asked him 
+          about that. He said, "It was  meal given to you by Allah."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.399"> Volume 7, Book 67, Number 399: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Qatada:
+        <p> (the same Hadith above, but he added); The Prophet asked, "Is there 
+          any of its meat left with you?"
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.400"> Volume 7, Book 67, Number 400: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Qatada:
+        <p> I was with the Prophet (on a journey) between Mecca and Medina, and 
+          all of them, (i.e. the Prophet and his companions) were in the state 
+          of Ihram, while I was not in that state. I was riding my horse and I 
+          used to be fond of ascending mountains. So while I was doing so I 
+          noticed that the people were looking at something. I went to see what 
+          it was, and behold it was an onager. I asked my companions, "What is 
+          that?" They said, "We do not know." I said, "It is an onager.' They 
+          said, "It is what you have seen." I had left my whip, so I said to 
+          them, "Hand to me my whip." They said, "We will not help you in that 
+          (in hunting the onager)." I got down, took my whip and chased the 
+          animal (on my horse) and did not stop till I killed it. I went to them
+          and said, "Come on, carry it!" But they said, "We will not even touch 
+          it." At last I alone carried it and brought it to them. Some of them 
+          ate of it and some refused to eat of it. I said (to them), "I will ask
+          the Prophet about it (on your behalf)." When I met the Prophet, I told
+          him the whole story. He said to me, "Has anything of it been left with
+          you?" I said, "Yes." He said, "Eat, for it is a meal Allah has offered
+          to you."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.401"> Volume 7, Book 67, Number 401: </a> </em>
+      <blockquote>
+        <p> Narrated Jabir:
+        <p> We went out in a campaign and the army was called The Army of the 
+          Khabt, and Abu 'Ubaida was our commander. We were struck with severe 
+          hunger. Then the sea threw a huge dead fish called Al-'Anbar, the like
+          of which had never been seen. We ate of it for half a month, and then 
+          Abu 'Ubaida took one of its bones (and made an arch of it) so that a 
+          rider could easily pass under it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.402"> Volume 7, Book 67, Number 402: </a> </em>
+      <blockquote>
+        <p> Narrated Jabir:
+        <p> The Prophet sent us as an army unit of three hundred warriors under 
+          the command of Abu 'Ubaida to ambush a caravan of the Quraish. But we 
+          were struck with such severe hunger that we ate the Khabt (desert 
+          bushes), so our army was called the Army of the Khabt. Then the sea 
+          threw a huge fish called Al-'Anbar and we ate of it for half a month 
+          and rubbed our bodies with its fat till our bodies became healthy. 
+          Then Abu Ubaida took one of its ribs and fixed it over the ground and 
+          a rider passed underneath it. There was a man amongst us who 
+          slaughtered three camels when hunger became severe, and he slaughtered
+          three more, but after that Abu 'Ubaida forbade him to do so.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.403"> Volume 7, Book 67, Number 403: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn Abi Aufa:
+        <p> We participated with the Prophet in six or seven Ghazawat, and we used
+          to eat locusts with him.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.404"> Volume 7, Book 67, Number 404: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Tha'laba Al-Khushani:
+        <p> I came to the Prophet  and said, "O Allah's Apostle! We are living in 
+          the land of the people of the Scripture, and we take our meals in 
+          their utensils, and there is game in that land and I hunt with my bow 
+          and with my trained hound and with my untrained hound." The Prophet 
+          said, "As for your saying that you are in the land of people of the 
+          Scripture, you should not eat in their utensils unless you find no 
+          alternative, in which case you must wash the utensils and then eat in 
+          them As for your saying that you are in the land of game, if you hunt 
+          something with your bow, mention Allah's Name (while hunting the game)
+          and eat; and if you hunt something with your trained hound, mention 
+          Allah's Name on sending and eat; and if you hunt something with your 
+          untrained hound and get it alive, slaughter it and you can eat of it"
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.405"> Volume 7, Book 67, Number 405: </a> </em>
+      <blockquote>
+        <p> Narrated Salama bin Al-Aqwa':
+        <p> In the evening of the day of the conquest of Khaibar, the army made 
+          fires (for cooking). The Prophet said, "For what have you made these 
+          fires?" They said, "For cooking the meat of domestic donkeys." He 
+          said, "Throw away what is in the cooking pots and break the pots." A 
+          man from the people got up and said, "Shall we throw the contents of 
+          the cooking pots and then wash the pots (instead of breaking them)?" 
+          The Prophet  said, "Yes, you can do either'
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.406"> Volume 7, Book 67, Number 406: </a> </em>
+      <blockquote>
+        <p> Narrated Rafi bin Khadij:
+        <p> We were with the Prophet in Dhul-Hulaifa and there the people were 
+          struck with severe hunger. Then we got camels and sheep as war booty 
+          (and slaughtered them). The Prophet was behind all the people. The 
+          people hurried and fixed the cooking pots (for cooking) but the 
+          Prophet came there and ordered that the cooking pots be turned upside 
+          down. Then he distributed the animals, regarding ten sheep as equal to
+          one camel. One of the camels ran away and there were a few horses with
+          the people. They chased the camel but they got tired, whereupon a man 
+          shot it with an arrow whereby Allah stopped it. The Prophet said, 
+          "Among these animals some are as wild as wild beasts, so if one of 
+          them runs away from you, treat it in this way." I said. "We hope, or 
+          we are afraid that tomorrow we will meet the enemy and we have no 
+          knives, shall we slaughter (our animals) with canes?" The Prophet 
+          said, "If the killing tool causes blood to gush out and if Allah's 
+          Name is mentioned, eat (of the slaughterer animal). But do not 
+          slaughter with a tooth or a nail. I am telling you why: A tooth is a 
+          bone, and the nail is the knife of Ethiopians."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.407"> Volume 7, Book 67, Number 407: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah:
+        <p> Allah's Apostle said that he met Zaid bin 'Amr Nufail at a place near 
+          Baldah and this had happened before Allah's Apostle received the 
+          Divine Inspiration. Allah's Apostle presented a dish of meat (that had
+          been offered to him by the pagans) to Zaid bin 'Amr, but Zaid refused 
+          to eat of it and then said (to the pagans), "I do not eat of what you 
+          slaughter on your stonealtars (Ansabs) nor do I eat except that on 
+          which Allah's Name has been mentioned on slaughtering."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.408"> Volume 7, Book 67, Number 408: </a> </em>
+      <blockquote>
+        <p> Narrated Jundub bin Sufyan Al-Bajali:
+        <p> Once during the lifetime of Allah's Apostle we offered some animals as
+          sacrifices. Some people slaughtered their sacrifices before the (Id) 
+          prayer, so when the Prophet finished his prayer, he saw that they had 
+          slaughtered their sacrifices before the prayer. He said, "Whoever has 
+          slaughtered (his sacrifice) before the prayer, should slaughter 
+          (another sacrifice) in lieu of it; and whoever has not yet slaughtered
+          it till we have prayed; should slaughter (it) by mentioning Allah's 
+          Name."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.409"> Volume 7, Book 67, Number 409: </a> </em>
+      <blockquote>
+        <p> Narrated Ka'b:
+        <p> that a slave girl of theirs used to shepherd some sheep at Si'a (a 
+          mountain near Medina). On seeing one of her sheep dying, she broke a 
+          stone and slaughtered it. Ka'b said to his family, "Do not eat (of it)
+          till I go to the Prophet and ask him, or, till I send someone to ask 
+          him." So he went to the Prophet or sent someone to him The Prophet 
+          permitted (them) to eat it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.410"> Volume 7, Book 67, Number 410: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah
+        <p> that Ka'b had a slave girl who used to graze his sheep on a small 
+          mountain, called "Sl'a", situated near the market. Once a sheep was 
+          dying, so she broke a stone and slaughtered it with it. When they 
+          mentioned that to the Prophet, he, permitted them to eat it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.411"> Volume 7, Book 67, Number 411: </a> </em>
+      <blockquote>
+        <p> Narrated Rafi bin Khadij:
+        <p> that he said, "O Allah's Apostle! We have no knife." The Prophet said,
+          "if the killing tool causes blood to gush out, and if Allah's Name is 
+          mentioned, eat (of the slaughtered animal). But do not slaughter with 
+          a nail or a tooth, for the nail is the knife of Ethiopians and a tooth
+          is a bone." Suddenly a camel ran away and it was stopped (with an 
+          arrow). The Prophet then said, "Of these camels there are some which 
+          are as wild as wild beasts; so if one of them runs away from you and 
+          you cannot catch it, treat it in this manner (i.e. shoot it with an 
+          arrow)."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.412"> Volume 7, Book 67, Number 412: </a> </em>
+      <blockquote>
+        <p> Narrated Ka'b bin Malik:
+        <p> A lady slaughtered a sheep with a stone and then the Prophet was asked
+          about it and he permitted it to be eaten.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.413"> Volume 7, Book 67, Number 413: </a> </em>
+      <blockquote>
+        <p> Narrated Mu'adh bin Sad or Sad bin Mu'adh:
+        <p> A slave girl belonging to Ka'b used to graze some sheep at Sl'a 
+          (mountain). Once one of her sheep was dying. She reached it (before it
+          died) and slaughtered it with a stone. The Prophet was asked, and he 
+          said, "Eat it."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.414"> Volume 7, Book 67, Number 414: </a> </em>
+      <blockquote>
+        <p> Narrated Rafi bin Khadij:
+        <p> The Prophet said, "Eat what is slaughtered (with any instrument) that 
+          makes blood flow out, except what is slaughtered with a tooth or a 
+          nail.'
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.415"> Volume 7, Book 67, Number 415: </a> </em>
+      <blockquote>
+        <p> Narrated 'Aisha:
+        <p> A group of people said to the Prophet, "Some people bring us meat and 
+          we do not know whether they have mentioned Allah's Name or not on 
+          slaughtering the animal." He said, "Mention Allah's Name on it and 
+          eat." Those people had embraced Islam recently.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.416"> Volume 7, Book 67, Number 416: </a> </em>
+      <blockquote>
+        <p> Narrates 'Abdullah bin Mughaffal:
+        <p> While we were besieging the castle of Khaibar, Somebody threw a skin 
+          full of fat and I went ahead to take it, but on looking behind, I saw 
+          the Prophet and I felt shy in his presence (and did not take it).
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.417"> Volume 7, Book 67, Number 417: </a> </em>
+      <blockquote>
+        <p> Narrated Rafi bin Khadij:
+        <p> I said, "O Allah's Apostle! We are going to face the enemy tomorrow 
+          and we do not have knives." He said, "Hurry up (in killing the 
+          animal). If the killing tool causes blood to flow out, and if Allah's 
+          Name is mentioned, eat (of the slaughtered animal). But do not 
+          slaughter with a tooth or a nail. I will tell you why: As for the 
+          tooth, it is a bone; and as for the nail, it is the knife of 
+          Ethiopians." Then we got some camels and sheep as war booty, and one 
+          of those camels ran away, whereupon a man shot it with an arrow and 
+          stopped it. Allah's Apostle said, "Of these camels there are some 
+          which are as wild as wild beasts, so if one of them (runs away and) 
+          makes you tired, treat it in this manner."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.418"> Volume 7, Book 67, Number 418: </a> </em>
+      <blockquote>
+        <p> Narrated Asma bint Abu Bakr:
+        <p> We slaughtered a horse (by Nahr) during the lifetime of the Prophet 
+          and ate it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.419"> Volume 7, Book 67, Number 419: </a> </em>
+      <blockquote>
+        <p> Narrated Asma':
+        <p> We slaughtered a horse (by Dhabh) during the lifetime of Allah's 
+          Apostle while we were at Medina, and we ate it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.420"> Volume 7, Book 67, Number 420: </a> </em>
+      <blockquote>
+        <p> Narrated Asma' bint Abu Bakr:
+        <p> We slaughtered a horse (by Nahr) during the lifetime of Allah's 
+          Apostle and ate it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.421"> Volume 7, Book 67, Number 421: </a> </em>
+      <blockquote>
+        <p> Narrated Hisham bin Zaid:
+        <p> Anas and I went to Al-Hakam bin Aiyub. Anas saw some boys shooting at 
+          a tied hen. Anas said, "The Prophet has forbidden the shooting of tied
+          or confined animals."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.422"> Volume 7, Book 67, Number 422: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Umar:
+        <p> that he entered upon Yahya bin Said while one of Yahya's sons was 
+          aiming at a hen after tying it. Ibn 'Umar walked to it and untied it. 
+          Then he brought it and the boy and said. "Prevent your boys from tying
+          the birds for the sake of killing them, as I have heard the Prophet 
+          forbidding the killing of an animal or other living thing after tying 
+          them."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.423"> Volume 7, Book 67, Number 423: </a> </em>
+      <blockquote>
+        <p> Narrated Said bin Jubair:
+        <p> While I was with Ibn 'Umar, we passed by a group of young men who had 
+          tied a hen and started shooting at it. When they saw Ibn 'Umar, they 
+          dispersed, leaving it. On that Ibn 'Umar said, "Who has done this? The
+          Prophet cursed the one who did so."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.424"> Volume 7, Book 67, Number 424: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Umar:
+        <p> The Prophet cursed the one who did Muthla to an animal (i e., cut its 
+          limbs or some other part of its body while it is still alive).
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.425"> Volume 7, Book 67, Number 425: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah bin Yazid:
+        <p> The Prophet forbade An-Nuhba and Al-Muthla.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.426"> Volume 7, Book 67, Number 426: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Musa Al-Ash'ari:
+        <p> I saw the Prophet eating chicken.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.427"> Volume 7, Book 67, Number 427: </a> </em>
+      <blockquote>
+        <p> Narrated Zahdam:
+        <p> We were in the company of Abu Musa Al-Ash'ari and there were friendly 
+          relations between us and this tribe of Jarm. Abu Musa was presented 
+          with a dish containing chicken. Among the people there was sitting a 
+          red-faced man who did not come near the food. Abu Musa said (to him), 
+          "Come on (and eat), for I have seen Allah's Apostle eating of it (i.e.
+          chicken)." He said, "I have seen it eating something (dirty) and since
+          then I have disliked it, and have taken an oath that I shall not eat 
+          it ' Abu Musa said, "Come on, I will tell you (or narrate to you). 
+          Once I went to Allah s Apostle with a group of Al-Ash'ariyin, and met 
+          him while he was angry, distributing some camels of Rakat. We asked 
+          for mounts but he took an oath that he would not give us any mounts, 
+          and added, 'I have nothing to mount you on' In the meantime some 
+          camels of booty were brought to Allah's Apostle and he asked twice, 
+          'Where are Al-Ash'ariyin?" So he gave us five white camels with big 
+          humps. We stayed for a short while (after we had covered a little 
+          distance), and then I said to my companions, "Allah's Apostle has 
+          forgotten his oath. By Allah, if we do not remind Allah's Apostle of 
+          his oath, we will never be successful." So we returned to the Prophet 
+          and said, "O Allah's Apostle! We asked you for mounts, but you took an
+          oath that you would not give us any mounts; we think that you have 
+          forgotten your oath.' He said, 'It is Allah Who has given you mounts. 
+          By Allah, and Allah willing, if I take an oath and later find 
+          something else better than that. then I do what is better and expiate 
+          my oath.' "
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.428"> Volume 7, Book 67, Number 428: </a> </em>
+      <blockquote>
+        <p> Narrated Asma':
+        <p> We slaughtered a horse during the lifetime of Allah's Apostle and ate 
+          it.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.429"> Volume 7, Book 67, Number 429: </a> </em>
+      <blockquote>
+        <p> Narrated Jabir bin 'Abdullah:
+        <p> On the Day of the battle of Khaibar, Allah's Apostle made donkey's 
+          meat unlawful and allowed the eating of horse flesh.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.430"> Volume 7, Book 67, Number 430: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Umar:
+        <p> The Prophet made the meat of donkeys unlawful on the day of the battle
+          of Khaibar.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.431"> Volume 7, Book 67, Number 431: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Umar:
+        <p> The Prophet prohibited the eating of donkey's meat.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.432"> Volume 7, Book 67, Number 432: </a> </em>
+      <blockquote>
+        <p> Narrated 'Ali:
+        <p> Allah's Apostle prohibited Al-Mut'a marriage and the eating of 
+          donkey's meat in the year of the Khaibar battle
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.433"> Volume 7, Book 67, Number 433: </a> </em>
+      <blockquote>
+        <p> Narrated Jabir bin 'Abdullah:
+        <p> The Prophet prohibited the eating of donkey's meat on the day of the 
+          battle of Khaibar, and allowed the eating of horse flesh.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.434"> Volume 7, Book 67, Number 434: </a> </em>
+      <blockquote>
+        <p> Narrated Al-Bara' and Ibn Abi 'Aufa:
+        <p> The Prophet prohibited the eating of donkey's meat.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.435"> Volume 7, Book 67, Number 435: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Tha'alba:
+        <p> Allah's Apostle prohibited the eating of donkey's meat.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.435o"> Volume 7, Book 67, Number 435o: </a> </em>
+      <blockquote>
+        <p> Narrated Az-Zuhri:
+        <p> The Prophet prohibited the eating of beasts having fangs.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.436"> Volume 7, Book 67, Number 436: </a> </em>
+      <blockquote>
+        <p> Narrated Anas bin Malik:
+        <p> Someone came to Allah's Apostle and said, "The donkeys have been 
+          (slaughtered and) eaten. Another man came and said, "The donkeys have 
+          been destroyed." On that the Prophet ordered a caller to announce to 
+          the people: Allah and His Apostle forbid you to eat the meat of 
+          donkeys, for it is impure.' Thus the pots were turned upside down 
+          while the (donkeys') meat was boiling in them.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.437"> Volume 7, Book 67, Number 437: </a> </em>
+      <blockquote>
+        <p> Narrated 'Amr:
+        <p> I said to Jabir bin Zaid, "The people claim that Allah's Apostle 
+          forbade the eating of donkey's meat." He said, "Al-Hakam bin 'Amr 
+          Al-Ghifari used to say so when he was with us, but Ibn 'Abbas, the 
+          great religious learned man, refused to give a final verdict and 
+          recited:-- 'Say: I find not in that which has been inspired to me 
+          anything forbidden to be eaten by one who wishes to eat it, unless it 
+          be carrion, blood poured forth or the flesh of swine...' (6.145)
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.438"> Volume 7, Book 67, Number 438: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Tha'laba:
+        <p> Allah's Apostle forbade the eating of the meat of beasts having 
+          fangs.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.439"> Volume 7, Book 67, Number 439: </a> </em>
+      <blockquote>
+        <p> Narrated 'Abdullah bin 'Abbas:
+        <p> Once Allah's Apostle passed by a dead sheep and said (to the people), 
+          "Why don't you use its hide?" They said, "But it is dead," He said, 
+          "Only eating it, is prohibited."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.440"> Volume 7, Book 67, Number 440: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Abbas:
+        <p> The Prophet passed by a dead goat and said, "There is no harm if its 
+          owners benefit from its skin."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.441"> Volume 7, Book 67, Number 441: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Huraira:
+        <p> Allah's Apostle said, "None is wounded in Allah's Cause but will come 
+          on the Day of Resurrection with his wound bleeding. The thing that 
+          will come out of his wound will be the color of blood, but its smell 
+          will be the smell of musk."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.442"> Volume 7, Book 67, Number 442: </a> </em>
+      <blockquote>
+        <p> Narrated Abu Musa:
+        <p> The Prophet said, 'The example of a good pious companion and an evil 
+          one is that of a person carrying musk and another blowing a pair of 
+          bellows. The one who is carrying musk will either give you some 
+          perfume as a present, or you will buy some from him, or you will get a
+          good smell from him, but the one who is blowing a pair of bellows will
+          either burn your clothes or you will get a bad smell from him."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.443"> Volume 7, Book 67, Number 443: </a> </em>
+      <blockquote>
+        <p> Narrated Anas bin Malik:
+        <p> Once we provoked a rabbit at Marr-az-Zahran. The people chased it till
+          they got tired. Then I caught It and brought it to Abu Talha, who 
+          slaughtered it and then sent both its pelvic pieces (or legs) to the 
+          Prophet, and the Prophet accepted the present.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.444"> Volume 7, Book 67, Number 444: </a> </em>
+      <blockquote>
+        <p> Narrated Ibn 'Umar:
+        <p> The Prophet said, "I do not eat mastigure, but I do not prohibit its 
+          eating."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.445"> Volume 7, Book 67, Number 445: </a> </em>
+      <blockquote>
+        <p> Narrated Khalid bin Al-Walid:
+        <p> Allah's Apostle and I entered the house of Maimuna. A roasted 
+          mastigure was served. Allah's Apostle stretched his hand out (to eat 
+          of it) but some woman said, "Inform Allah's Apostle of what he is 
+          about to eat." So they said, "It is mastigure, O Allah's Apostle!" He 
+          withdrew his hand, whereupon I said, "O Allah's Apostle! Is it 
+          unlawful?" He said, "No, but this is not found in the land of my 
+          people, so I dislike it." So I pulled the mastigure towards me and ate
+          it while Allah's Apostle was looking at me.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.446"> Volume 7, Book 67, Number 446: </a> </em>
+      <blockquote>
+        <p> Narrated Maimuna:
+        <p> A mouse fell into the butter-fat and died. The Prophet was asked about
+          that. He said, "Throw away the mouse and the butter-fat that 
+          surrounded it, and eat the rest of the butter-fat (As-Samn).
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.447"> Volume 7, Book 67, Number 447: </a> </em>
+      <blockquote>
+        <p> Narrated Az-Zhuri:
+        <p> regarding an animal, e.g., a mouse or some other animal that had 
+          fallen into solid or liquid oil or butter-fat: I had been informed 
+          that a mouse had died in butter-fat whereupon Allah's Apostle ordered 
+          that the butter-fat near it be thrown away and the rest of the 
+          butter-fat can be eaten.
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.448"> Volume 7, Book 67, Number 448: </a> </em>
+      <blockquote>
+        <p> Narrated Maimuna:
+        <p> The Prophet was asked about a mouse that had fallen into butter-fat 
+          (and died). He said, "Throw away the mouse and the portion of 
+          butter-fat around it, and eat the rest."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.449"> Volume 7, Book 67, Number 449: </a> </em>
+      <blockquote>
+        <p> Narrated Salim:
+        <p> that Ibn 'Umar disliked the branding of animals on the face. Ibn 'Umar
+          said, "The Prophet forbade beating (animals) on the face."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.450"> Volume 7, Book 67, Number 450: </a> </em>
+      <blockquote>
+        <p> Narrated Anas:
+        <p> I brought a brother of mine to the Prophet to do Tahnik for him while 
+          the Prophet was in a sheep fold of his, and I saw him branding a 
+          sheep. (The sub-narrator said: I think Anas said, branding it on the 
+          ear.)
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.451"> Volume 7, Book 67, Number 451: </a> </em>
+      <blockquote>
+        <p> Narrated Rait' bin Khadij:
+        <p> I said to the Prophet, "We will be facing the enemy tomorrow and we 
+          have no knives (for slaughtering)' He said, "If you slaughter the 
+          animal with anything that causes its blood to flow out, and if Allah's
+          Name is mentioned on slaughtering it, eat of it, unless the killing 
+          instrument is a tooth or nail. I will tell you why: As for the tooth, 
+          it is a bone; and as for the nail, it is the knife of Ethiopians." The
+          quick ones among the people got the war booty while the Prophet was 
+          behind the people. So they placed the cooking pots on the fire, but 
+          the Prophet ordered the cooking pots to be turned upside down. Then he
+          distributed (the war booty) among them, considering one camel as equal
+          to ten sheep. Then a camel belonging to the first party of people ran 
+          away and they had no horses with them, so a man shot it with an arrow 
+          whereby Allah stopped it. The Prophet said, "Of these animals there 
+          are some which are as wild as wild beasts. So, if anyone of them runs 
+          away like this, do like this (shoot it with an arrow)."
+        <p>        
+      </blockquote>
+      <hr>
+      <em> <a name="007.067.452"> Volume 7, Book 67, Number 452: </a> </em>
+      <blockquote>
+        <p> Narrated Rafi bin Khadij:
+        <p> While we were with the Prophet. on a journey, one of the camels ran 
+          away. A man shot it with an arrow and stopped it. The Prophet said, 
+          "Of these camels some are as wild as wild beasts, so if one of them 
+          runs away and you cannot catch it, then do like this (shoot it with an
+          arrow)." I said, "O Allah's Apostle! Sometimes when we are in battles 
+          or on a journey we want to slaughter (animals) but we have no knives."
+          He said, "Listen! If you slaughter the animal with anything that 
+          causes its blood to flow out, and if Allah's Name is mentioned on 
+          slaughtering it, eat of it, provided that the slaughtering instrument 
+          is not a tooth or a nail, as the tooth is a bone and the nail is the 
+          knife of Ethiopians."
+        <p>        
+      </blockquote>
+      <!--#include virtual="../../dev/footer.html" -->
+      </div>
+    </td>
+     
+     
+  
+  	 <td align="left" width="333" valign="top">
+	  
+	<div class="white">
+      
+      <header><span class="header-ie">Articles</span></header>
+	  
+	  
+	  <br>
+
+<a href="../../../articles/beyond-violence.php" title="Beyond Violence" target="_blank">Beyond Violence</a>
+      
+
+<br><br>
+
+<a href="../../../articles/muslim-constructive-role.php" title="Toward a Muslim Constructive Role in Contemporary World Civilization" target="_blank">Toward a Muslim Constructive Role in Contemporary World Civilization</a>
+      
+
+<br><br>
+
+<a href="../../../articles/judaism-violence-reconciliation.php" title="Judaism on Violence and Reconciliation: Texts" target="_blank">Judaism on Violence and Reconciliation: Texts</a>
+      
+
+<br><br>
+
+<a href="../../../articles/jewish-texts.php" title="Classic Jewish texts on Arabs/Muslims" target="_blank">Classic Jewish texts on Arabs/Muslims</a>
+      
+
+
+    </div>	
+	
+	<div class="white">
+      
+      <header><span class="header-ie">Ask a Scholar</span></header>
+      
+      <br>
+      	<form method="post" action="../../../scholars/ask-a-scholar/">
+        
+        <textarea name="question" rows="3" cols="30" wrap="hard" placeholder="Enter your question here..." min="5"></textarea>
+      <br>
+        <input type="submit" value="Ask a Scholar">
+        
+        </form>
+      
+    </div>
+        
+      
+     
+     
+     <div class="white">   
+    
+    	<header><span class="header-ie">Youtube Channel</span></header>			
+			
+				<iframe width="300" height="246" src="http://www.youtube.com/embed/D41FJ4JpdgY" frameborder="0" allowfullscreen=""></iframe>
+			
+			</div>
+	<div class="white">
+      
+      <header><span class="header-ie">Join the CMJE Mailing List</span></header>
+      
+      <br>
+      	<form method="post" action="../../../about/contact/mailing-list.php">
+		
+		<input name="email" type="text" placeholder="Enter your email address" size="36" maxlength="50" max="50" min="5">
+      <br>
+        <input type="submit" value="Sign Up">
+      
+    </div>
+    
+    
+    
+    
+    <div class="white">  
+    
+      <header><span class="header-ie">Social Media</span></header>
+      
+      <br>
+    
+      <a href="http://www.twitter.com/CMJEintheUSA" target="_blank"><img src="../../../images/icons/twitter.jpg" alt="Center for Muslim-Jewish Engagement on Twitter" width="32" height="32" hspace="6" vspace="3" border="0" align="middle"></a> <a href="http://twitter.com/CMJEintheUSA" title="Center for Muslim-Jewish Engagement on Twitter" target="_blank">CMJE on Twitter</a>
+      
+      <br><br>
+      
+      <a href="https://www.facebook.com/pages/Center-for-Muslim-Jewish-Engagement" target="_blank"><img src="../../../images/icons/facebook.jpg" alt="Center for Muslim-Jewish Engagement on Facebook" width="32" height="32" hspace="6" vspace="3" border="0" align="middle"></a> <a href="https://www.facebook.com/pages/Center-for-Muslim-Jewish-Engagement" title="Center for Muslim-Jewish Engagement on Facebook" target="_blank">Join CMJE on Facebook</a>
+      
+      <br><br>
+      
+      <a href="http://www.youtube.com/user/CMJEUSC" target="_blank"><img src="../../../images/icons/youtube.jpg" alt="Center for Muslim-Jewish Engagement Youtube channel" width="32" height="32" hspace="6" vspace="3" border="0" align="middle"></a> <a href="http://www.youtube.com/user/CMJEUSC" title="Center for Muslim-Jewish Engagement Youtube channel" target="_blank">CMJE YouTube Channel</a>
+      
+    </div> 
+	
+    
+    </td>
+
+    
+    
+    
+  </tr>
+  
+  
+</table>
+
+
+</body>
+
+</html>

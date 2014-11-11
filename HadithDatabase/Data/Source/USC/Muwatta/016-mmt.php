@@ -1,0 +1,769 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<title>Center for Muslim-Jewish Engagement</title>
+
+
+<link href="../../../stylesheets/styles.css" rel="stylesheet" type="text/css">
+
+<script src="../../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+<link href="../../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+
+
+<!--  Spry-UI-1.7 scripts  -->
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryDOMUtils.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryDOMEffects.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryWidget.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryPanelSelector.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryPanelSet.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryFadingPanels.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SprySliderPanels.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryFilmStrip.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryImageLoader.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/SpryImageSlideShow.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/plugins/ImageSlideShow/SpryThumbnailFilmStripPlugin.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/plugins/ImageSlideShow/SpryTitleSliderPlugin.js'></script>
+<script type='text/javascript' src='../../../Spry-UI-1.7/includes/plugins/ImageSlideShow/SpryPanAndZoomPlugin.js'></script>
+
+
+
+<link type='text/css' href='../../../Spry-UI-1.7/css/ImageSlideShow/basicFS/basic_fs.css' rel='stylesheet'>
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16659537-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<style>
+
+<!--
+
+body {
+	background: url('../../../images/bg-holder-v2.jpg') no-repeat center top fixed;
+	background-color: #D7CCB4;
+	margin-top: 12px;
+}
+
+-->
+	
+</style>
+
+
+<!--[if gte IE 5]>
+
+<link rel="stylesheet" type="text/css" href="../../../stylesheets/ie-specific.css" />
+
+<![endif]-->
+</head>
+
+<body>
+
+<table class="main" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr>
+  	<td width="100%" height="150" colspan="2" background="../../../images/header/header.jpg">
+    	<header><span class="header-ie">
+            <h2>Center for Muslim-Jewish Engagement</h2>
+       	  <h4>A Partnership between the Hebrew Union College-Jewish Institute of Religion, <br>
+       	    Omar Ibn Al Khattab Foundation, & USC Center for Religion and Civic Culture</h4>
+		</span>
+		</header>
+    </td>
+  </tr>
+  
+  <tr>
+    	
+    <td width="100%" colspan="2">
+        <nav>        
+        
+    	<ul id="MenuBar1" class="MenuBarHorizontal"><li class="home"><a href="../../../" alt="Center for Muslim Jewish Engagement" title="Center for Muslim Jewish 
+
+Engagement">Home</a></li>
+
+          
+
+          <li class="about"><a class="MenuBarItemSubmenu" href="../../../about/mission/" alt="about" title="about">About</a>
+
+            <ul>
+
+              
+
+              <li class="about"><a href="../../../about/history/" class="sub" alt="history" title="history">History</a>
+
+</li>
+
+<li class="about"><a href="../../../about/mission/" class="sub" alt="mission" title="mission">Mission</a>
+
+</li>
+
+              <li class="about"><a href="../../../about/members/" class="sub" alt="executive members" title="executive 
+
+members">Executive Members / Staff</a></li>
+
+              <li class="about"><a href="../../../about/partners/" class="sub" alt="partners" title="partners">Partners</a></li>
+
+              <li class="about"><a href="../../../about/contact/" class="sub" alt="contact" title="contact">Contact</a>
+
+</li>
+
+              <li class="about"><a href="../../../about/calendar/" class="sub" alt="calendar" title="calendar">Calendar</a></li>
+
+            </ul>
+
+          </li>
+
+        
+
+          <li class="texts"><a href="../../home/" class="MenuBarItemSubmenu" alt="religious texts" title="religious texts">Religious Texts</a>
+
+            <ul>
+
+              <li class="texts"><a href="../../quran/" class="sub" alt="quran" title="quran">Quran</a></li>
+
+              <li class="texts"><a href="../" class="sub" alt="hadith" title="hadith">Hadith</a></li>
+
+              <li class="texts"><a href="../../home/jewish-text.php" class="sub" alt="jewish text" title="jewish text">Jewish Text</a></li>
+
+            </ul>
+
+          </li>
+
+          
+
+          <li class="scholars"><a class="MenuBarItemSubmenu" alt="scholars" title="scholars">Scholars</a>
+
+            <ul>
+
+              <li class="scholars"><a href="../../../scholars/scholars/fathi-osman.php" class="sub" alt="dr fathi osman" title="dr fathi osman">Dr. Fathi Osman</a></li>
+
+              <li class="scholars"><a href="../../../scholars/scholars/reuven-firestone.php" class="sub" alt="dr reuven 
+
+firestone" title="dr reuven firestone">Dr. Reuven Firestone</a></li>
+
+              <li class="scholars"><a href="../../../scholars/ask-a-scholar/" class="sub" alt="ask scholar" title="ask 
+
+scholar">Ask a Scholar</a></li>
+
+            </ul>
+
+          </li>
+
+        
+
+          <li class="articles"><a class="MenuBarItemSubmenu" href="../../../articles/" alt="articles" title="articles">Articles</a></li>
+
+        
+
+        <li class="resources"><a class="MenuBarItemSubmenu" alt="resources" title="resources">Resources</a>
+
+          <ul>
+
+            <li class="resources"><a href="../../../resources/reading/" class="sub" alt="publications and reading" title="publications and reading">Publications / Suggested Reading</a></li>
+
+            <li class="resources"><a href="../../../resources/news/" class="sub" alt="news" title="news">In the 
+
+News</a></li>
+
+            <li class="resources"><a href="../../../resources/projects/" class="sub" alt="programs and projects" title="programs and projects">Programs / Projects</a></li>
+
+            <li class="resources"><a href="../../../resources/heritage/" class="sub" alt="heritage and traditions" title="heritage and traditions">Heritage / Traditions</a></li>
+
+            <li class="resources"><a href="../../../resources/photos/cmje.php" class="sub" alt="photo gallery" title="photo gallery">CMJE Photo Gallery</a></li>
+
+          </ul>
+
+        </li>    
+       </ul> 
+        
+        <script type="text/javascript"> 
+        var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+        </script> 
+        
+       </nav>
+        
+        
+  	</td>
+    
+  </tr>
+
+  
+  
+  <tr>
+  
+    <td width="667" valign="top">
+    
+      <div class="content"><em> <a href="mmtintro.php"> Translation of Malik's Muwatta, Book 16: </a> </em>
+        <h1> <em> Burials </em> </h1>
+        <p> Courtesy of <a href="http://www.islsoftware.com/">ISL Software</a>, makers of the <strong><a href="http://www.islsoftware.com/winalim.htm">WinAlim Islamic database</a></strong>. </p>
+        <hr>
+        <h3> Section: Washing the Dead </h3>
+        <hr>
+        <em> <a name="016.16.1.1"> Book 16, Number 16.1.1: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Jafar ibn Muhammad from his father that the Messenger of Allah, may Allah bless him and grant him peace, was washed in a long shirt. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.1.2"> Book 16, Number 16.1.2: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ayyub ibn Abi Tamima as-Sakhtayani from Muhammad ibn Sirin that Umm Atiyya al-Ansariyya said, "The Messenger of Allah, may Allah bless him and grant him peace, came to us when his daughter died and said, 'Wash her three times, or five, or more than that if you think it necessary, with water and lotus leaves, and at the end put on some camphor, or a little camphor, and when you have finished let me know.' When we finished we told him, and he gave us his waist-wrapper and said, 'Shroud her with this.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.1.3"> Book 16, Number 16.1.3: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abdullah ibn Abi Bakr that Asma bint Umays washed Abu Bakr as-Siddiq when he died. Then she went out and asked some of the muhajirun who were there, "I am fasting and this is an extremely cold day. Do I have to do ghusl?" They said, "No." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.1.4"> Book 16, Number 16.1.4: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he had heard people of knowledge say, "When a woman dies and there are no women with her to wash her and no man who has the right by blood ties to take charge of that for her and no husband to take charge of it for her, she should be purified by tayammum ,that is, by wiping her face and hands with earth." </p>
+          <p> Malik said, "When a man dies and there are only women with him, they also should purify him with earth ." </p>
+          <p> Malik said, "There is no particular way with us for washing the dead nor any recognised way to do it. They are just washed and purified." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Shrouding the Dead </h3>
+        <hr>
+        <em> <a name="016.16.2.5"> Book 16, Number 16.2.5: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Hisham ibn Urwa from his father from A'isha, the wife of the Prophet, may Allah bless him and grant him peace, that the Messenger of Allah, may Allah bless him and grant him peace, was shrouded in three pure white cotton garments, none of which was a long shirt or a turban. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.2.6"> Book 16, Number 16.2.6: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that Yahya ibn Said said that he had heard that when Abu Bakr as-Siddiq was ill he asked A'isha, "How many shrouds did the Messenger of Allah, may Allah bless him and grant him peace, have?" and she replied, "Three pure white cotton garments." Abu Bakr said, "Take this garment (a garment he was wearing on which red clay or saffron had fallen) and wash it. Then shroud me in it with two other garments." A'isha said, "Why's that?", and Abu Bakr replied, "The living have greater need of the new than the dead. This is only for the body fluids that come out as the body decays." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.2.7"> Book 16, Number 16.2.7: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ibn Shihab from Humayd ibn Abdar-Rahman ibn Awf that Abdullah ibn Amr ibn al-As said, "A dead man is clothed in a shirt and a waist-wrapper and then wrapped in a third, and if he only has one garment he is shrouded in that." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Walking in Front of the Bier </h3>
+        <hr>
+        <em> <a name="016.16.3.8"> Book 16, Number 16.3.8: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ibn Shihab that the Messenger of Allah, may Allah bless him and grant him peace, and Abu Bakr and Umar as well as the khalifas up until this time and Abdullah ibn Umar, would walk in front of the bier. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.3.9"> Book 16, Number 16.3.9: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Muhammad ibn alMunkadir that Rabia ibn Abdullah ibn alHadir told him that he had seen Umar ibn al-Khattab leading people in front of the bier at the funeral of Zaynab bint Jahsh. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.3.10"> Book 16, Number 16.3.10: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that Hisham ibn Urwa said, "I only ever saw my father in front of a funeral procession." He added, "Then he would come to al-Baqi and sit down until the procession passed him." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.3.11"> Book 16, Number 16.3.11: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that Ibn Shihab said, "Walking behind the bier is in contradiction to the sunna." </p>
+          <p> 16.4 The Prohibition Against Following the Bier with a Burning Torch </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: The Prohibition Against Following the Bier with a Burning Torch </h3>
+        <hr>
+        <em> <a name="016.16.4.12"> Book 16, Number 16.4.12: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Hisham ibn Urwa that Asma bint Abi Bakr said to her family, "Perfume my clothes with incense when I die and then embalm me. Do not put any of the embalming substance on my shroud, and do not follow me with a burning torch." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.4.13"> Book 16, Number 16.4.13: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Said ibn Abi Said al-Maqburi that Abu Hurayra forbade anyone to follow him with a burning torch after his death. </p>
+          <p> Yahya said, "I heard Malik disapprove of that." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: The Takbir Over a Dead Man </h3>
+        <hr>
+        <em> <a name="016.16.5.14"> Book 16, Number 16.5.14: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ibn Shihab from Said ibn al-Musayyab from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, announced the death of an Najashi to everyone on the day that he died, and went out with them to the place of prayer, and then formed them into rows and said "Allah is greater" four times. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.5.15"> Book 16, Number 16.5.15: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ibn Shihab that Abu Umama ibn Sahl ibn Hunayf told him that once a poor woman fell ill and the Messenger of Allah, may Allah bless him and grant him peace, was told of her illness, and the Messenger of Allah, may Allah bless him and grant him peace, used to visit poor people frequently and ask after them. The Messenger of Allah, may Allah bless him and grant him peace, said, "Let me know if she dies." Her bier was brought out at night-time and they did not want to wake up the Messenger of Allah, may Allah bless him and grant him peace. In the morning the Messenger of Allah, may Allah bless him and grant him peace, was told what had happened to her and he said, "Didn't I tell you to let me know if she died?" They replied, "Messenger of Allah, we did not want to wake you up and make you come out in the night." Then the Messenger of Allah, may Allah bless him and grant him peace, went out and formed everyone into rows by her grave and said "Allah is greater" four times. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.5.16"> Book 16, Number 16.5.16: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me that Malik asked Ibn Shihab about a man who caught some of the takbirs said over the corpse and missed the rest, and Ibn Shihab said, "He completes what he has missed." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: What to Say in the Prayer for the Dead </h3>
+        <hr>
+        <em> <a name="016.16.6.17"> Book 16, Number 16.6.17: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Said ibn Abi Said al-Maqburi from his father that he had asked Abu Hurayra, "How do you pray over the dead?" and Abu Hurayra replied, "By the Life of Allah, I will tell you! I follow with the family and when the corpse is put down I say 'Allah is greater' and praise Allah and ask for blessings on His Prophet. Then I say, 'O Allah, he is Your slave and the son of Your male slave and Your female slave. He used to testify that there is no god but You and that Muhammad is Your slave and Your Messenger, and You know that best. O Allah, if he acted well, then increase for him his good action, and if he acted wrongly, then overlook his wrong actions. O Allah, do not deprive us of his reward, and do not try us after him.'" </p>
+          <p> Allahumma inna huwa abduka wa'bnu abdika wa'bnu amatika. Kana yash-hadu an la ilaha illa ant wa anna Muhammadan abduka wa rasooluka, wa anta alamu bihi. Allahumma in kana muhsinan zid fi ihsanihi, wa in kana musiyan fa tajawaz an sayatihi. Allahumma la tahrimna ajrahu wa lataftina badahu. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.6.18"> Book 16, Number 16.6.18: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that Yahya ibn Said said that he heard Said ibn al-Musayyab say, "I once prayed behind Abu Hurayra over a child who had never done a wrong action and I heard him say, 'O Allah, give him protection from the torment of the grave.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.6.19"> Book 16, Number 16.6.19: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abdullah ibn Umar used not to recite when praying over a dead person. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Permission to Pray Over the Dead After Subh until the Dawn is very Clear and After Asr until the Sun Turns Yellow </h3>
+        <hr>
+        <em> <a name="016.16.7.20"> Book 16, Number 16.7.20: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Muhammad ibn Abi Harmala, the mawla of Abd ar-Rahman ibn Abi Sufyan ibn Huwaytib, that Zaynab bint Abi Salama died during the time that Tariq was amir of Madina and her bier was brought out after subh and put in al-Baqi. He said that Tariq used to pray subh right at the beginning of its time. He added, "I heard Abdullah ibn Umar say to the family, 'You can either pray over your dead now or you can wait until the sun comes up.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.7.21"> Book 16, Number 16.7.21: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abdullah ibn Umar said, "The prayer for a dead person can be done after asr and subh if these have been prayed at their times." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Doing the Prayer for the Dead in Mosques </h3>
+        <hr>
+        <em> <a name="016.16.8.22"> Book 16, Number 16.8.22: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu'n Nadr, the mawla of Umar ibn Ubaydullah that A'isha, the wife of the Prophet, may Allah bless him and grant him peace, ordered that the body of Sad ibn Abi Waqqas be brought past her in the mosque so that she could make dua for him. Some people disapproved of her doing that, and she said, "How hasty people are! The Messenger of Allah, may Allah bless him and grant him peace, only prayed over Suhayl ibn Bayda in the mosque." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.8.23"> Book 16, Number 16.8.23: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abdullah ibn Umar said, "The prayer over Umar ibn al-Khattab was done in the mosque." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: The Prayer over the Dead in General </h3>
+        <hr>
+        <em> <a name="016.16.9.24"> Book 16, Number 16.9.24: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he had heard that Uthman ibn Affan and Abdullah ibn Umar and Abu Hurayra used to pray over the dead, both men and women, in Madina. They would put the men nearer to the imam and the women nearer to the qibla. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.9.25"> Book 16, Number 16.9.25: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abdullah ibn Umar, when he prayed over the dead, would say, "Peace be upon you" loud enough for whoever was near to him to hear. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.9.26"> Book 16, Number 16.9.26: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abdullah ibn Umar used to say, "No-one should pray over a dead person unless he is in wudu." </p>
+          <p> Yahya said that he heard Malik say, "I have not seen any person of knowledge disapproving of praying over either a child born of adultery or its mother." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Burying theDead </h3>
+        <hr>
+        <em> <a name="016.16.10.27"> Book 16, Number 16.10.27: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he had heard that the Messenger of Allah, may Allah bless him and grant him peace, died on Monday and was buried on Tuesday and people prayed over him individually with no one leading them. Some people said that he would be buried near the mimbar, and others said that he would be buried in al-Baqi. Abu Bakr as-Siddiq came and said, "I heard the Messenger of Allah, may Allah bless him and grant him peace, say, 'No prophet was ever buried except in the place where he died.'  "So a grave was dug for him there. When he was about to be washed they wished to take off his shirt but they heard a voice saying "Don't take off his shirt," so they did not take off his shirt and he was washed with it on, may Allah bless him and grant him peace. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.10.28"> Book 16, Number 16.10.28: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Hisham ibn Urwa that his father said, "There were two men in Madina, one of whom dug graves with a niche in the side wall for the body, and the other who did not, and they said, 'Whichever one comes first can do the job,' and the one who dug graves with a niche came first and dug the Messenger of Allah's grave, may Allah bless him and grant him peace." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.10.29"> Book 16, Number 16.10.29: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he had heard that Umm Salama, the wife of the Prophet, may Allah bless him and grant him peace, used to say, "I did not believe that the Messenger of Allah, may Allah bless him and grant him peace, had died until I heard the pickaxes fall." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.10.30"> Book 16, Number 16.10.30: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Yahya ibn Said that A'isha, the wife of the Prophet, may Allah bless him and grant him peace, said, "I saw three moons fall into my room, and I related my vision to Abu Bakr as-Siddiq. Then, when the Messenger of Allah died, may Allah bless him and grant him peace, and was buried in my house, Abu Bakr said to me, 'This is one of your moons, and he is the best of them.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.10.31"> Book 16, Number 16.10.31: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from more than one reliable source that Sad ibn Abi Waqqas and Said ibn Zayd ibn Amr ibn Nufayl died at al-Aqiq and were carried to Madina and buried there. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.10.32"> Book 16, Number 16.10.32: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Hisham ibn Urwa that his father said, "I would not want to be buried in al-Baqi. I would prefer to be buried elsewhere. The one who is buried in al-Baqi is one of two people. Either he is unjust (dhalim), and I would not like to be buried with him, or he is salih, and I would not like his bones to be disturbed for me." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Stopping for Funerals and Sitting in Graveyards </h3>
+        <hr>
+        <em> <a name="016.16.11.33"> Book 16, Number 16.11.33: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Yahya ibn Said from Wafid ibn Amr ibn Said ibn Muadh from Nafi ibn Jubayr ibn Mutim from Masud ibn al-Hakam from AIi ibn Abi Talib that the Messenger of Allah, may Allah bless him and grant him peace, used to stand up when a funeral procession passed by, and then sit down again afterwards. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.11.34"> Book 16, Number 16.11.34: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> ahya related to me from Malik that he had heard that AIi ibn Abi Talib used to rest his head on graves and lie on them. </p>
+          <p> Malik said, "As far as we can see ,it is only forbidden to sit on graves to relieve oneself." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.11.35"> Book 16, Number 16.11.35: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu Bakr ibn Uthman ibn Sahl ibn Hunayf that he had heard Abu Umama ibn Sahl ibn Hunayf say, "We used to attend funeral processions, and the last of the people would not sit until they had been given permission ." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: The Prohibition Against Weeping Over the Dead </h3>
+        <hr>
+        <em> <a name="016.16.12.36"> Book 16, Number 16.12.36: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abdullah ibn Abdullah ibn Jabir ibn Atik that Atik ibn al-Harith, the grandfather of Abdullah ibn Abdullah ibn Jabir on his mother's side, told him that Jabir ibn Atik had told him that the Messenger of Allah, may Allah bless him and grant him peace, came to visit Abdullah ibn Thabit and found him in his death-throes. He called to him but he did not reply. The Messenger of Allah, may Allah bless him and grant him peace, said, "We belong to Allah, and to Him we are returning," and added, "You are being taken from us, Abu'r-Rabi.''  The women cried out and wept, and Jabir began to silence them. The Messenger of Allah, may Allah bless him and grant him peace, said, "Leave them, and when the necessary time comes, none of the women should cry."  They said, "Messenger of Allah, what is the necessary time?", and he replied, "When he dies."  The dying  man's daughter said, "By Allah, I hope that you will be a martyr, for you have completed your preparations for battle," and the Messenger of Allah, may Allah bless him and grant him peace, said, "Allah has made his reward fall according to his intention. What do you consider dying a martyr to be?" They said, "Death in the way of Allah." The Messenger of Allah, may Allah bless him and grant him peace, said, "There are seven kinds of rnartyr other than those killed in the way of Allah. Someone who is killed by the plague is a martyr, someone who drowns is a martyr, someone who dies of pleurisy is a martyr, someone who dies of a disease of the belly is a martyr, someone who dies by fire is a martyr, someone who dies under a falling building is a martyr and a woman who dies in childbirth is a martyr." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.12.37"> Book 16, Number 16.12.37: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abdullah ibn Abi Bakr from his father that Amra bint Abd ar-Rahman told him that she had heard A'isha, the umm al-muminin, say (when it was mentioned to her that Abdullah ibn Umar used to say, "The dead are tormented by the weeping of the living"), "May Allah forgive Abu Abd ar-Rahman. Of course he has not lied, but he has forgotten, or made a mistake. The Messenger of Allah, may Allah bless him and grant him peace, passed by a  jewish woman whose family were crying over her and he said, 'You are crying over her, and she is being tormented in her grave. ' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Contentment in the Face of Misfortune </h3>
+        <hr>
+        <em> <a name="016.16.13.38"> Book 16, Number 16.13.38: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ibn Shihab from Said ibn al-Musayyab from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "No muslim who has three children die will be touched by the Fire except to fulfil Allah's oath." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.13.39"> Book 16, Number 16.13.39: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Muhammad ibn Abi Bakr ibn Amr ibn Hazm from his father from Abu'n-Nadr as-Salami that the Messenger of Allah, may Allah bless him and grant him peace, said, "If three of a muslim's children die, and he remains content with that, they will be a protection for him from the Fire." A woman who was with the Messenger of Allah, may Allah bless him and grant him peace, said, "Or two, Messengerof Allah?", and he said, "Or two." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.13.40"> Book 16, Number 16.13.40: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he had heard from Abu'l-Hubab Said ibn Yasar from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "The mumin continues to be struck by misfortune in his children and close friends until he meets Allah with no wrong actions." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Contentment in the Face of Misfortune Generally </h3>
+        <hr>
+        <em> <a name="016.16.14.41"> Book 16, Number 16.14.41: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr that the Messenger of Allah, may Allah bless him and grant him peace, said, "Let the misfortune that befalls me be a comfort to the muslims in their misfortunes." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.14.42"> Book 16, Number 16.14.42: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Rabia ibn Abi Abd ar-Rahman from Umm Salama, the wife of the Prophet may Allah bless him and grant him peace, that the Messenger of Allah, may Allah bless him and grant him peace, said, "If a misfortune befalls some one and he says, as Allah has ordered, 'We belong to Allah and to Him we are returning. O Allah, reward me in my misfortune and give me better than it afterwards,' Allah will do that for him" (Inna lillahi wa inna ilayhi rajiun. Allahumma' jurniy fi musiybatiy, wa a qibhiy khayran minha, illa faala 'llahu dhalika bihi.). </p>
+          <p> Umm Salama said, "When Abu Salama died I said that, and then I said, 'Who is better than Abu Salama?' " And then Allah left her the Messenger of Allah, may Allah bless him and grant him peace, and he married her. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.14.43"> Book 16, Number 16.14.43: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Yahya ibn Said that al-Qasim ibn Muhammad said, "One of my wives died and Muhammad ibn Kab al Quradhi came to console me about her. He told me of one among the Bani Israil who was a diligent, worshipping, knowing and understanding man who had a wife that he admired and loved, and she died. He grieved over her intensely and lamented her until he withdrew into a house and locked himself in, hidden from everyone, and no-one visited him. A woman heard about him and went to him, saying, 'I need him to give me an opinion. Nothing will satisfy me except what he says about it.' Everyone went away, but she stuck to his door and said, 'I must see him.' Someone said to him, 'There is a woman who wishes to ask your opinion about something,' and she insisted, 'I will only talk to him about it.'  When everyone had gone away, and she still had not left his door, he said, 'Let her in.' So she went in and saw him and said, 'I have come to ask your opinion about something.'  He said, 'What is it?' She said, 'I borrowed a piece of jewellery from a neighbour of mine, and I have worn it and used it for a long time. Then they sent to me for it. Should I let them have it back?'  He said, 'Yes, by Allah.' She said, 'I have had it for a long time.'  He said, 'It is more correct for you to return it to them, since they have lent it to you for such a long time.'  She said, 'Yes. May Allah have mercy on you. Do you then grieve over what Allah has lent you and then taken from you, when He has a greater right to it than you?'  Then he saw the situation he was in, and Allah helped him by her words." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Digging Up Graves </h3>
+        <hr>
+        <em> <a name="016.16.15.44"> Book 16, Number 16.15.44: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that Abu'r-Rijal Muhammad ibn Abd ar-Rahman heard his mother Amra bint Abd ar-Rahman say, "The Messenger of Allah, may Allah bless him and grant him peace, cursed both men and women who dug up," meaning those who dug up graves. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.15.45"> Book 16, Number 16.15.45: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he had heard that A'isha, the wife of the Prophet, may Allah bless him and grant him peace, used to say, "Breaking the bone of a muslim when he is dead is like breaking it when he is alive."  She meant if done in wrong action. </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <h3> Section: Burial in General </h3>
+        <hr>
+        <em> <a name="016.16.16.46"> Book 16, Number 16.16.46: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Hisham ibn Urwa from Abbad ibn Abdullah ibn az-Zubayr that A'isha, the wife of the Prophet, may Allah bless him and grant him peace, told him that she had heard the Messenger of Allah, may Allah bless him and grant him peace, say before he died, while he was leaning on her breast and she was listening to him, "O Allah, forgive me and have mercy on me and join me with the highest company." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.47"> Book 16, Number 16.16.47: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that he heard that A'isha said, "The Messenger of Allah, may Allah bless him and grant him peace, said, 'No prophet dies until he is given the choice.' " She continued, "I heard him say ,'O Allah, the highest company,' and I knew that he was going." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.48"> Book 16, Number 16.16.48: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abdullah ibn Umar said that the Messenger of Allah, may Allah bless him and grant him peace, said, "When you die, your place will be shown to you in the morning and the evening. If you are one of the people of the Garden, then you will be with the people of the Garden, and if you are one of the people of the Fire, then you will be with the people of the Fire. You will be told, 'This is your place of waiting until Allah raises you on the day of rising.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.49"> Book 16, Number 16.16.49: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu'z Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "The earth eats all of the son of Adam except the coccyx. He was created from it, and on it he is built." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.50"> Book 16, Number 16.16.50: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Ibn Shihab that Abd ar-Rahman ibn Kab ibn Malik al-Ansari told him that his father, Kab ibn Malik, used to relate that the Messenger of Allah, may Allah bless him and grant him peace, said, "The ruh of the mumin is a bird that sits in the trees of the Garden until Allah returns it to his body on the day He raises him ." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.51"> Book 16, Number 16.16.51: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu'z Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "Allah, the Blessed and Exalted, said, 'If My slave longs to meet Me, I long to meet him, and if he is averse to meeting Me, I am averse to meeting him.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.52"> Book 16, Number 16.16.52: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu'z Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "A man said to his family that he had never done a good action, and that when he died they were to burn him and then scatter half of him on the land and half of him on the sea, and by Allah, if Allah destined it for him He would punish him with a punishment which He had not punished anyone else with in all the worlds. When the man died, they did as he had told them. Then Allah told the land to collect everything that was in it, and told the sea to collect everything that was in it, and then He said to the man, 'Why did you do this?' and he said, 'From fear of  You, Lord, and You know best.' " </p>
+          <p> Abu Hurayra added, "And He forgave him." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.53"> Book 16, Number 16.16.53: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu'z Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "Every child is born on the fitra and it is his parents who make him a jew or a christian.  Just as a camel is born whole - do you perceive any defect?" They said, "Messenger of Allah, what happens to people who die when they are (very) young?"  He said, "Allah knows best what they used to do." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.54"> Book 16, Number 16.16.54: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Abu'z Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, "The Hour will not come until a man passes by the grave of another and says, 'If only I were in his place.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.55"> Book 16, Number 16.16.55: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Muhammad ibn Amr ibn Halhalaad-Dili from Mabad ibn Kab ibn Malik that Abu Qatada ibn Ribi used to relate that a funeral procession passed by the Messenger of Allah, may Allah bless him and grant him peace, and he said, "One is relieved and another others are relieved from." They said, "Who is the one relieved and the one from whom others are relieved?" He said, "A slave who is mumin is the one who is relieved from the exhaustion and suffering of this world to the mercy of Allah, and a wrong-acting slave is the one from whom people, towns, trees and animals are relieved." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.56"> Book 16, Number 16.16.56: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik that Abu'n Nadr, the mawla of Umar ibn Ubaydullah, said that the Messenger of Allah, may Allah bless him and grant him peace, said, when Uthman ibn Madhun's funeral procession passed by him, "You have gone and you were not involved in any of it." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.57"> Book 16, Number 16.16.57: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Malik related to me from AIqama ibn Abi Alqama that his mother said that she had heard A'isha, the wife of the Prophet, may Allah bless him and grant him peace, say, "The Messenger of Allah, may Allah bless him and grant him peace, rose one night and put on his clothes and then went out. I ordered my slave-girl, Barira, to follow him, and she followed him until he got to al-Baqi. He stood near it as long as Allah willed and then he left. Barira arrived back before him and told me and I did not say anything to him until morning, and then I mentioned it to him and he explained, 'I was sent out to the people of al-Baqi to pray for them.' " </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <hr>
+        <em> <a name="016.16.16.58"> Book 16, Number 16.16.58: </a> </em>
+        <!--BeginHadithBody-->
+        <blockquote>
+          <p> Yahya related to me from Malik from Nafi that Abu Hurayra said, "Make your funerals speedy, for it is only good that you are advancing him towards, or evil that you are taking off your necks." </p>
+        </blockquote>
+        <!--EndHadithBody-->
+        <!--#include virtual="../../dev/footer.html" -->
+      </div>
+    </td>
+     
+     
+  
+  	 <td align="left" width="333" valign="top">
+	  
+	<div class="white">
+      
+      <header><span class="header-ie">Articles</span></header>
+	  
+	  
+	  <br>
+
+Truth about Jihad and Suicide
+<br>
+<a href="../../../articles/jihad-suicide-1.php" target="_blank">part I</a>
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<a href="../../../articles/jihad-suicide-2.php" target="_blank">part II</a>
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<a href="../../../articles/jihad-suicide-3.php" target="_blank">part III</a>
+      
+
+<br><br>
+
+<a href="../../../articles/reflections-on-muslims.php" title="Pluralism and Civil Society: Reflections on Muslims in the West" target="_blank">Pluralism and Civil Society: Reflections on Muslims in the West</a>
+      
+
+<br><br>
+
+<a href="http://www.usc.edu/schools/college/crcc/private/cmje/issues/more_issues/Holy_War_in_Modern_Judaism.pdf" title="Holy War in Modern Judaism?" onclick="javascript: pageTracker._trackPageview('/downloads/firestoneholywarmodern');">Holy War in Modern Judaism? (pdf only)</a>
+      
+
+<br><br>
+
+<a href="http://www.usc.edu/schools/college/crcc/private/cmje/issues/more_issues/more_issues/jerusalem_and_pluralism_issues/JERUSALEM_in_Judaism_Christianity_and_Islam.pdf" title="Jerusalem in Judaism, Christianity and Islam" onclick="javascript: pageTracker._trackPageview('/downloads/firestonejerusalem');">Jerusalem in Judaism, Christianity and Islam (pdf only)</a>
+      
+
+
+    </div>	
+	
+	<div class="white">
+      
+      <header><span class="header-ie">Ask a Scholar</span></header>
+      
+      <br>
+      	<form method="post" action="../../../scholars/ask-a-scholar/">
+        
+        <textarea name="question" rows="3" cols="30" wrap="hard" placeholder="Enter your question here..." min="5"></textarea>
+      <br>
+        <input type="submit" value="Ask a Scholar">
+        
+        </form>
+      
+    </div>
+        
+      
+     
+     
+     <div class="white">   
+    
+    	<header><span class="header-ie">Youtube Channel</span></header>			
+			
+				<iframe width="300" height="246" src="http://www.youtube.com/embed/D41FJ4JpdgY" frameborder="0" allowfullscreen=""></iframe>
+			
+			</div>
+	<div class="white">
+      
+      <header><span class="header-ie">Join the CMJE Mailing List</span></header>
+      
+      <br>
+      	<form method="post" action="../../../about/contact/mailing-list.php">
+		
+		<input name="email" type="text" placeholder="Enter your email address" size="36" maxlength="50" max="50" min="5">
+      <br>
+        <input type="submit" value="Sign Up">
+      
+    </div>
+    
+    
+    
+    
+    <div class="white">  
+    
+      <header><span class="header-ie">Social Media</span></header>
+      
+      <br>
+    
+      <a href="http://www.twitter.com/CMJEintheUSA" target="_blank"><img src="../../../images/icons/twitter.jpg" alt="Center for Muslim-Jewish Engagement on Twitter" width="32" height="32" hspace="6" vspace="3" border="0" align="middle"></a> <a href="http://twitter.com/CMJEintheUSA" title="Center for Muslim-Jewish Engagement on Twitter" target="_blank">CMJE on Twitter</a>
+      
+      <br><br>
+      
+      <a href="https://www.facebook.com/pages/Center-for-Muslim-Jewish-Engagement" target="_blank"><img src="../../../images/icons/facebook.jpg" alt="Center for Muslim-Jewish Engagement on Facebook" width="32" height="32" hspace="6" vspace="3" border="0" align="middle"></a> <a href="https://www.facebook.com/pages/Center-for-Muslim-Jewish-Engagement" title="Center for Muslim-Jewish Engagement on Facebook" target="_blank">Join CMJE on Facebook</a>
+      
+      <br><br>
+      
+      <a href="http://www.youtube.com/user/CMJEUSC" target="_blank"><img src="../../../images/icons/youtube.jpg" alt="Center for Muslim-Jewish Engagement Youtube channel" width="32" height="32" hspace="6" vspace="3" border="0" align="middle"></a> <a href="http://www.youtube.com/user/CMJEUSC" title="Center for Muslim-Jewish Engagement Youtube channel" target="_blank">CMJE YouTube Channel</a>
+      
+    </div> 
+	
+    
+    </td>
+
+    
+    
+    
+  </tr>
+  
+  
+</table>
+
+
+</body>
+
+</html>
