@@ -110,5 +110,160 @@ namespace HadithDatabase
                 chapterdoc.Save("..//..//Data//USC//Muwatta//" + pageLink);
             }
         }
+
+        private void btnIIUMBukhari_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url ="http://www.iium.edu.my/deed/hadith/bukhari";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url+"/index.html");
+            
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//ol").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("li/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                 HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//IIUM//Bukhari//" + pageLink);
+            }
+
+            this.Cursor = Cursors.Default;
+        }
+
+        private void btnIIUMMuslim_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url = "http://www.iium.edu.my/deed/hadith/muslim";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
+            doc.Load("..//..//Data//Source//iium_muslim.html");
+
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//li").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("ol/li/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//IIUM//Muslim//" + pageLink);
+            }
+
+            this.Cursor = Cursors.Default;
+        }
+
+        private void btnIIUMMuwatta_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url = "http://www.iium.edu.my/deed/hadith/malik/";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url + "/index.html");
+
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//ol").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("li/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//IIUM//Muwatta//" + pageLink);
+            }
+
+            this.Cursor = Cursors.Default;
+        }
+
+        private void btnSunnahBukhari_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url = "http://sunnah.com";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url + "/bukhari");
+
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//div[@class='book_titles']").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("div/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//Sunnah//bukhari//" + pageLink.Substring(pageLink.LastIndexOf("/") + 1) + ".html");
+            }
+
+            this.Cursor = Cursors.Default;
+        }
+
+        private void btnSunnahMuslim_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url = "http://sunnah.com";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url + "/muslim");
+
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//div[@class='book_titles']").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("div/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//Sunnah//Muslim//" + pageLink.Substring(pageLink.LastIndexOf("/") + 1) + ".html");
+            }
+
+            this.Cursor = Cursors.Default;
+        }
+
+        private void btnSunnahDawud_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url = "http://sunnah.com";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url + "/abudawud");
+
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//div[@class='book_titles']").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("div/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//Sunnah//Dawud//" + pageLink.Substring(pageLink.LastIndexOf("/") + 1) + ".html");
+            }
+
+            this.Cursor = Cursors.Default;
+        }
+
+        private void btnSunnahMuwatta_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            string url = "http://sunnah.com";
+            HtmlWeb web = new HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url + "/malik");
+
+            HtmlNode contentNode = doc.DocumentNode.SelectNodes("//div[@class='book_titles']").First();
+
+            foreach (HtmlNode linkNode in contentNode.SelectNodes("div/a"))
+            {
+                string pageLink = linkNode.GetAttributeValue("href", "");
+
+                HtmlAgilityPack.HtmlDocument chapterdoc = web.Load(url + "/" + pageLink);
+
+                chapterdoc.Save("..//..//Data//Source//Sunnah//Muwatta//" + pageLink.Substring(pageLink.LastIndexOf("/") + 1) + ".html");
+            }
+
+            this.Cursor = Cursors.Default;
+        }
     }
 }

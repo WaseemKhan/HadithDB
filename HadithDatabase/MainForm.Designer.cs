@@ -34,6 +34,7 @@
             this.converToJSONToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.uSCToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.bukhariToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.muslimToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -75,7 +76,8 @@
             // uSCToolStripMenuItem1
             // 
             this.uSCToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.bukhariToolStripMenuItem});
+            this.bukhariToolStripMenuItem,
+            this.muslimToolStripMenuItem});
             this.uSCToolStripMenuItem1.Name = "uSCToolStripMenuItem1";
             this.uSCToolStripMenuItem1.Size = new System.Drawing.Size(175, 24);
             this.uSCToolStripMenuItem1.Text = "USC";
@@ -86,6 +88,13 @@
             this.bukhariToolStripMenuItem.Size = new System.Drawing.Size(175, 24);
             this.bukhariToolStripMenuItem.Text = "Bukhari";
             this.bukhariToolStripMenuItem.Click += new System.EventHandler(this.bukhariToolStripMenuItem_Click);
+            // 
+            // muslimToolStripMenuItem
+            // 
+            this.muslimToolStripMenuItem.Name = "muslimToolStripMenuItem";
+            this.muslimToolStripMenuItem.Size = new System.Drawing.Size(175, 24);
+            this.muslimToolStripMenuItem.Text = "Muslim";
+            this.muslimToolStripMenuItem.Click += new System.EventHandler(this.muslimToolStripMenuItem_Click);
             // 
             // MainForm
             // 
@@ -114,6 +123,7 @@
         private System.Windows.Forms.ToolStripMenuItem converToJSONToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem uSCToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem bukhariToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem muslimToolStripMenuItem;
     }
 }
 

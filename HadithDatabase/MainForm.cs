@@ -29,6 +29,15 @@ namespace HadithDatabase
             frm.Show();
         }
 
+        private void WriteToFile(string HadithContent, string TargetFileName)
+        {
+            StreamWriter fs = File.CreateText(TargetFileName);
+
+            fs.Write(HadithContent);
+
+            fs.Close();
+        }
+
         private void bukhariToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Cursor = Cursors.WaitCursor;
@@ -71,19 +80,59 @@ namespace HadithDatabase
                 string output = JsonConvert.SerializeObject(HadithCollection, Formatting.Indented);
 
                 //WriteToFile(output, "..//..//Data//Clean//USC//Bukhari//" + file.Name.Substring(0, file.Name.Length - 4) + ".json");
-                WriteToFile(output, "..//..//Data//Clean//USC//Bukhari//bukhari.json");
+                WriteToFile(output, "..//..//Data//Clean//USC//usc_bukhari.json");
             }
 
             this.Cursor = Cursors.Default;
         }
 
-        private void WriteToFile(string HadithContent, string TargetFileName)
+
+
+        private void muslimToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            StreamWriter fs = File.CreateText(TargetFileName);
+            this.Cursor = Cursors.WaitCursor;
 
-            fs.Write(HadithContent);
+            DirectoryInfo directoryInfo = new DirectoryInfo("..//..//Data//Source//USC//Muslim//");
+            HtmlAgilityPack.HtmlDocument hadithFile = new HtmlAgilityPack.HtmlDocument();
 
-            fs.Close();
+            List<SourceHadithClass> HadithCollection = new List<SourceHadithClass>();
+
+            if (directoryInfo.Exists)
+            {
+                FileInfo[] fileInfo = directoryInfo.GetFiles();
+
+                foreach (FileInfo file in fileInfo)
+                {
+                    hadithFile.Load(file.FullName);
+
+                    if (hadithFile.DocumentNode.SelectNodes("//div[@class='content']") != null)
+                    {
+                        HtmlNode contentNode = hadithFile.DocumentNode.SelectNodes("//div[@class='content']").First();
+
+                        HtmlNodeCollection referenceNodes = contentNode.SelectNodes("//a[@name]");
+                        HtmlNodeCollection quoteNodes = contentNode.SelectNodes("//blockquote");
+
+                        //SourceHadithClass[] HadithCollection = new SourceHadithClass[referenceNodes.Count];
+
+                        for (int iCounter = 0; iCounter < referenceNodes.Count; iCounter++)
+                        {
+                            SourceHadithClass Hadith = new SourceHadithClass();
+
+                            Hadith.index = HadithCollection.Count;
+                            Hadith.source = "Muslim";
+                            Hadith.reference = referenceNodes[iCounter].Attributes[0].Value;
+                            Hadith.quote = quoteNodes[iCounter].InnerHtml;
+                            HadithCollection.Add(Hadith);
+                        }
+                    }
+                }
+
+                string output = JsonConvert.SerializeObject(HadithCollection, Formatting.Indented);
+
+                WriteToFile(output, "..//..//Data//Clean//USC//usc_muslim.json");
+            }
+
+            this.Cursor = Cursors.Default;
         }
     }
 }
