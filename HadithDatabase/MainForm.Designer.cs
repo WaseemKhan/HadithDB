@@ -35,6 +35,9 @@
             this.uSCToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.bukhariToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.muslimToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sunnahToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bukhariToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.muslimToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,7 +71,8 @@
             // converToJSONToolStripMenuItem
             // 
             this.converToJSONToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.uSCToolStripMenuItem1});
+            this.uSCToolStripMenuItem1,
+            this.sunnahToolStripMenuItem});
             this.converToJSONToolStripMenuItem.Name = "converToJSONToolStripMenuItem";
             this.converToJSONToolStripMenuItem.Size = new System.Drawing.Size(124, 24);
             this.converToJSONToolStripMenuItem.Text = "Conver to JSON";
@@ -95,6 +99,29 @@
             this.muslimToolStripMenuItem.Size = new System.Drawing.Size(175, 24);
             this.muslimToolStripMenuItem.Text = "Muslim";
             this.muslimToolStripMenuItem.Click += new System.EventHandler(this.muslimToolStripMenuItem_Click);
+            // 
+            // sunnahToolStripMenuItem
+            // 
+            this.sunnahToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.bukhariToolStripMenuItem1,
+            this.muslimToolStripMenuItem1});
+            this.sunnahToolStripMenuItem.Name = "sunnahToolStripMenuItem";
+            this.sunnahToolStripMenuItem.Size = new System.Drawing.Size(175, 24);
+            this.sunnahToolStripMenuItem.Text = "Sunnah";
+            // 
+            // bukhariToolStripMenuItem1
+            // 
+            this.bukhariToolStripMenuItem1.Name = "bukhariToolStripMenuItem1";
+            this.bukhariToolStripMenuItem1.Size = new System.Drawing.Size(175, 24);
+            this.bukhariToolStripMenuItem1.Text = "Bukhari";
+            this.bukhariToolStripMenuItem1.Click += new System.EventHandler(this.bukhariToolStripMenuItem1_Click);
+            // 
+            // muslimToolStripMenuItem1
+            // 
+            this.muslimToolStripMenuItem1.Name = "muslimToolStripMenuItem1";
+            this.muslimToolStripMenuItem1.Size = new System.Drawing.Size(175, 24);
+            this.muslimToolStripMenuItem1.Text = "Muslim";
+            this.muslimToolStripMenuItem1.Click += new System.EventHandler(this.muslimToolStripMenuItem1_Click);
             // 
             // MainForm
             // 
@@ -124,6 +151,9 @@
         private System.Windows.Forms.ToolStripMenuItem uSCToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem bukhariToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem muslimToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sunnahToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem bukhariToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem muslimToolStripMenuItem1;
     }
 }
 

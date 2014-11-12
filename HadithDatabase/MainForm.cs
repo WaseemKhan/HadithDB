@@ -134,5 +134,81 @@ namespace HadithDatabase
 
             this.Cursor = Cursors.Default;
         }
+
+        private void bukhariToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            GenerateSunnahJSONFile("..//..//Data//Source//Sunnah//Bukhari//", "..//..//Data//Clean//Sunnah//sunnah_bukhari.json", "Bukhari");
+        }
+
+        private void muslimToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            GenerateSunnahJSONFile("..//..//Data//Source//Sunnah//Muslim//", "..//..//Data//Clean//Sunnah//sunnah_muslim.json", "Muslim");
+        }
+
+        private void GenerateSunnahJSONFile(string srcDirectory, string targetFileName, string source)
+        {
+            this.Cursor = Cursors.WaitCursor;
+
+            DirectoryInfo directoryInfo = new DirectoryInfo(srcDirectory);
+            HtmlAgilityPack.HtmlDocument hadithFile = new HtmlAgilityPack.HtmlDocument();
+
+            List<SourceHadithClass> HadithCollection = new List<SourceHadithClass>();
+
+            if (directoryInfo.Exists)
+            {
+                FileInfo[] fileInfo = directoryInfo.GetFiles();
+
+                foreach (FileInfo file in fileInfo)
+                {
+                    hadithFile.Load(file.FullName);
+
+                    if (hadithFile.DocumentNode.SelectNodes("//div[@class='actualHadithContainer']") != null)
+                    {
+                        HtmlNodeCollection contentNodes = hadithFile.DocumentNode.SelectNodes("//div[@class='actualHadithContainer']");
+
+                        foreach (HtmlNode contentNode in contentNodes)
+                        {
+                            String narrator = "";
+
+                            if (contentNode.SelectNodes("div/div/div[@class='hadith_narrated']") != null)
+                            {
+                                HtmlNode narratorNode = contentNode.SelectNodes("div/div/div[@class='hadith_narrated']").First();
+
+                                // Remove leading whitespaces & "Narrated " text
+                                narrator = narratorNode.InnerText.Trim().Substring(9);
+
+                                // Remove ":" from the end, if found
+                                if (narrator.LastIndexOf(":") > -1)
+                                    narrator = narrator.Substring(0, narrator.LastIndexOf(":"));
+                            }
+
+                            HtmlNode quoteNode = contentNode.SelectNodes("div/div/div[@class='text_details']").First();
+
+                            SourceHadithClass Hadith = new SourceHadithClass();
+
+                            Hadith.index = HadithCollection.Count;
+                            Hadith.source = source;
+                            Hadith.reference = contentNode.Attributes[1].Value;
+
+                            Hadith.narrators = new String[] { narrator };
+
+                            String quote = quoteNode.InnerHtml.Trim();
+                            quote = quote.Replace("\n", "");
+                            quote = quote.Replace("\r", "");
+
+                            Hadith.quote = quote;
+
+                            HadithCollection.Add(Hadith);
+                        }
+                    }
+                }
+
+                string output = JsonConvert.SerializeObject(HadithCollection, Formatting.Indented);
+
+                WriteToFile(output, targetFileName);
+            }
+
+            this.Cursor = Cursors.Default;
+        }
     }
 }
